@@ -5,7 +5,8 @@
   <img alt="dgtl dept*" src="dgtl-dept-wordmark-light.png" width="400">
 </picture>
 </div>
-
+<br>
+<br>
 Marketing technology, AI agents, and the operational reality behind both — from someone who builds the infrastructure and then writes about what she learned.
 
 **dgtl dept*** is the open-source home of [the Substack](https://dgtldept.com) by [Rebecca Barton](https://rebeccaraebarton.com). Tools, frameworks, and resources for marketing leaders navigating the shift from execution to architecture.
