@@ -1,8 +1,8 @@
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/dgtl-dept-wordmark-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="profile/dgtl-dept-wordmark-light.png">
-  <img alt="dgtl dept*" src="profile/dgtl-dept-wordmark-light.png" width="400">
+  <source media="(prefers-color-scheme: dark)" srcset="dgtl-dept-wordmark-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="dgtl-dept-wordmark-light.png">
+  <img alt="dgtl dept*" src="dgtl-dept-wordmark-light.png" width="400">
 </picture>
 </div>
 
