@@ -1,9 +1,11 @@
 <div align="center">
+<a href="https://dgtldept.github.io">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dgtl-dept-wordmark-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="dgtl-dept-wordmark-light.png">
   <img alt="dgtl dept*" src="dgtl-dept-wordmark-light.png" width="400">
 </picture>
+</a>
 </div>
 <br>
 <br>
@@ -38,6 +40,7 @@ You can find Rebecca on her website, LinkedIn, Twitter, Crunchbase, Figma, Insta
 <br>
 <div align="center">
 
+[![Pages](https://img.shields.io/badge/Site-dgtldept.github.io-5B5F8D?style=flat&logo=github&logoColor=white)](https://dgtldept.github.io)
 [![Substack](https://img.shields.io/badge/Substack-dgtl%20dept*-FF6719?style=flat&logo=substack&logoColor=white)](https://dgtldept.com)
 [![Website](https://img.shields.io/badge/Web-rebeccaraebarton.com-222222?style=flat&logo=googlechrome&logoColor=white)](https://rebeccaraebarton.com)
 [![Instagram](https://img.shields.io/badge/Instagram-dgtldept-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/dgtldept)
