@@ -32,7 +32,7 @@ Marketing technology, AI agents, and the operational reality behind both — fro
 
 Marketing executive. Builder. 12+ years running digital P&Ls across DTC, marketplace, and luxury retail — Snowe, Paravel, The Line, Net32, Deconic (Alexis Bittar, Carolee). Now building AI agent infrastructure for commerce and writing about what the shift actually looks like from the inside.
 
-Currently: Founder at [RRBC](https://rebeccaraebarton.com). Consulting on growth strategy, marketing architecture, and AI implementation for e-commerce brands as a fractional CMO/CDO.
+Currently: a digital and e-commerce executive and founder of [RRBC](https://rebeccaraebarton.com) — advising select brands on growth strategy, marketing architecture, and AI implementation for e-commerce.
 <br>
 You can find Rebecca on her website, LinkedIn, Twitter, Crunchbase, Figma, Instagram, Spotify, and anywhere else chronically online millennials are sold.
 
